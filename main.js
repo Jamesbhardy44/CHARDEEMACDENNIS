@@ -180,7 +180,6 @@ async function roundOne(){
   }
   await waitForKeyPress('press any key to continue...');
   await  _ritOfSportsmanship();
-  await  _ritOfSportsmanship();
   console.log('BEGIN ROUND 2');
   let cardResult2 = _drawCard();
   console.log('drawing card........');
@@ -225,7 +224,6 @@ async function roundTwo(){
   //----------------------------------------------------------------------------
   await waitForKeyPress('press any key to continue...');
   await  _ritOfSportsmanship();
-  await  _ritOfSportsmanship();
   console.log('BEGIN ROUND 2');
   let cardResult2 = _drawCard();
   console.log('drawing card........');
@@ -269,7 +267,6 @@ async function roundThree(){
     await _setCheaterLevel(teamOne,teamOne.level,teamTwo,teamTwo.level);
   }
   await waitForKeyPress('press any key to continue...');
-  await  _ritOfSportsmanship();
   await  _ritOfSportsmanship();
   console.log('BEGIN ROUND 2');
   let cardResult2 = _drawCard();
