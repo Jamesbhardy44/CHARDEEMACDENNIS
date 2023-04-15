@@ -7,6 +7,8 @@ Version 2.0 has released, and is playable!
 
 Instructions:
 -----------------------------------------------------------
+(Dependencies: Node.js)
+
 1. Download ALL application files
 
 2. extract to a folder of your choice
