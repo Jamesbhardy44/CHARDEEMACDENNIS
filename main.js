@@ -10,21 +10,6 @@ const rl = createInterface({
   output: process.stdout
 });
 
-/*
-async function _registerTeam(teamNumber) {
-  let team = [];
-  team.teamNumber=teamNumber;
-  console.log(`---------------------------------`);
-  console.log(`Team ${teamNumber} Registration:`);
-
-  team.push(await askQuestion(`Player 1, what is your name? $> `));
-  team.push(await askQuestion(`Player 2, what is your name? $> `));
-  team.push(await askQuestion(`Player 3, what is your name? $> `));
-
-  console.log(`Team ${teamNumber} Registered Successfully: ${team}`);
-  return team;
-}
-*/
 
 async function _registerTeam(teamNumber) {
   let team = {
