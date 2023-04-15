@@ -1,6 +1,9 @@
 # CHARDEEMACDENNIS
 just for fun...
 
+Version 2.0 has released, and is playable!
+
+(It's just command line for now, but may change that in the future).
 
 Instructions:
 -----------------------------------------------------------
