@@ -41,7 +41,7 @@ function _logIntro() {
   console.log('================================================');
   console.log('Welcome to CharDeeMacDennis: \n \nThe Game of Games!');
   console.log('-----------------------------------------------\n');
-  console.log("Clay's Wedding Edition 1.0");
+  console.log("Version: 2.0");
   console.log('-----------------------------------------------\n');
   console.log("Author: James Hardy\nLicense MIT\n2023");
   console.log('-----------------------------------------------');
